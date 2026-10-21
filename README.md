@@ -1,7 +1,7 @@
 # Smart Headline Pro
 
 <p align="center">
-  <img src"assets/banner.png">
+  <img src"/assets/banner.png">
 </p>
 
 <p align="center">
