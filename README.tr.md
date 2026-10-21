@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Smart Headline Pro" width="100%">
+</p>
+
 # Smart Headline Pro
 
 <p align="center">
