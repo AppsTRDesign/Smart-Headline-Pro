@@ -1,6 +1,10 @@
 # Smart Headline Pro
 
 <p align="center">
+  <img src"assets/banner.png">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/github/v/release/AppsTRDesign/Smart-Headline-Pro">
   <img src="https://img.shields.io/github/downloads/AppsTRDesign/Smart-Headline-Pro/total">
   <img src="https://img.shields.io/badge/WordPress-6.0%2B-21759b?logo=wordpress" alt="WordPress 6.0+">
