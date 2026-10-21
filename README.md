@@ -1,8 +1,8 @@
-# Smart Headline Pro
-
 <p align="center">
-  <img src"/assets/banner.png">
+  <img src="assets/banner.png" alt="Smart Headline Pro" width="100%">
 </p>
+
+# Smart Headline Pro
 
 <p align="center">
   <img src="https://img.shields.io/github/v/release/AppsTRDesign/Smart-Headline-Pro">
